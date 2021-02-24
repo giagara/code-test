@@ -17,6 +17,5 @@ define("_PAGE_SIZE_MIN_", 0);
 define("_PAGE_SIZE_MAX_", 1000);
 
 /** APP PARAMETER */
-$page = 0;
-$page_size = 100;
+
 
